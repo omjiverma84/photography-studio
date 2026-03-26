@@ -1,2 +1,2 @@
 # photography-studio
-my first repository
+my first repository (owner:om ji)
